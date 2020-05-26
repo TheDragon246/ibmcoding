@@ -22,4 +22,4 @@ The certificate consists of the following nine courses -
 
 Further details about the certificate can be found on [course page at Coursera](https://www.coursera.org/professional-certificates/ibm-data-science) 
 
-This assignments from each course is available in the respective folders.
+This final assignment of each course is available in the respective folders.
